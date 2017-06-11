@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/product"
+            android:icon="@mipmap/product"
+            android:title="Add product" />
+        <item
+            android:id="@+id/pay"
+            android:icon="@mipmap/pay"
+            android:title="Pay Bills" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@mipmap/link"
+            android:title="Link Members" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@mipmap/reminder"
+            android:title="Set Reminder" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@mipmap/request"
+            android:title="View Requests" />
+
+    </group>
+
+    <item android:title="Limits">
+        <menu>
+            <item
+                android:id="@+id/limit"
+                android:icon="@mipmap/limit"
+                android:title="Limits" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@mipmap/balance"
+                android:title="Set Wallet Balance" />
+
+        </menu>
+    </item>
+
+</menu>

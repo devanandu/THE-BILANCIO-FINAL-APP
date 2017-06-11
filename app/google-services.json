@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "540008289582",
+    "firebase_url": "https://the-bilancio.firebaseio.com",
+    "project_id": "the-bilancio",
+    "storage_bucket": "the-bilancio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540008289582:android:48c90ddf1c06defa",
+        "android_client_info": {
+          "package_name": "hitha.ken.deva.abin.bilancio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540008289582-sh9s21qllhvpp1dusslgrlt20etiatvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hitha.ken.deva.abin.bilancio",
+            "certificate_hash": "ab00c278625cc5287e56a8fba21ff5d7b5365e32"
+          }
+        },
+        {
+          "client_id": "540008289582-94q9pek51mqg7ni6ko4vfth1ukmih0pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy56prdLTfqB4tFUBcYmZQEU7Pcd_uo00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540008289582-94q9pek51mqg7ni6ko4vfth1ukmih0pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

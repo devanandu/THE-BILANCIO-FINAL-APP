@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/day"
+        android:layout_width="183dp"
+        android:layout_height="45dp"
+        android:gravity="fill"
+        android:paddingRight="5dp"
+        android:text="16"
+        android:textAlignment="textEnd"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/month"
+        android:layout_width="161dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="fill"
+        android:gravity="left|center"
+        android:paddingLeft="3dp"
+        android:text="TextView"
+        android:textAlignment="inherit" />
+</LinearLayout>
